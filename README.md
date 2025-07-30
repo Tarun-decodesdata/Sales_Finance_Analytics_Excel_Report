@@ -11,7 +11,7 @@ The goal is to extract actionable insights from sales and financial data, and pr
 
 ### 📌 Sales Report
 - Create a **[Customer Sales Business Report](https://github.com/Tarun-decodesdata/Sales_Finance_Analytics_Excel_Report/blob/main/Customer_Sales_Business_report.pdf))**
-- Conduct a **Market vs. Target** performance comparison
+- Conduct a **[Market vs Target](https://github.com/Tarun-decodesdata/Sales_Finance_Analytics_Excel_Report/blob/main/Market%20Perf.%20vs%20Target%20Business.pdf)** performance comparison
 
 ### 📌 Finance Report (P&L)
 - Build **Profit & Loss reports by Fiscal Year**
@@ -53,7 +53,7 @@ The goal is to extract actionable insights from sales and financial data, and pr
 
 ## 📂 Reports Included
 - [Customer Sales Business Report](https://github.com/Tarun-decodesdata/Sales_Finance_Analytics_Excel_Report/blob/main/Customer_Sales_Business_report.pdf) 
-- Market Performance vs Target Report  
+- [Market Performance vs Target Report](https://github.com/Tarun-decodesdata/Sales_Finance_Analytics_Excel_Report/blob/main/Market%20Perf.%20vs%20Target%20Business.pdf) 
 - Fiscal Year P&L Report  
 - Market-wise P&L Report  
 
