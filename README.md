@@ -1,21 +1,26 @@
 AtliQ Hardware Excel P&L Analytics Report
+
 🧠 Project Overview
+
 This Excel-based analytics project focuses on generating insightful Sales and Finance (Profit & Loss) reports for AtliQ Hardware — a fictional company operating in the computer hardware space.
 
 The goal is to extract actionable insights from sales and financial data, and present them in visually structured reports for executive-level decision-making.
 
 🎯 Project Objectives
+
 📌 Sales Report
 Create a Customer Performance Report
 
 Conduct a Market vs. Target performance comparison
 
 📌 Finance Report (P&L)
+
 Build Profit & Loss reports by Fiscal Year
 
 Build Profit & Loss reports by Market
 
 💼 Business Purpose
+
 🔍 Sales Analytics:
 Evaluate sales trends and monitor KPIs
 
@@ -24,6 +29,7 @@ Support data-driven decisions on customer discounts and market negotiations
 Discover potential expansion opportunities
 
 📈 Finance Analytics:
+
 Assess financial health and performance
 
 Benchmark against past data and industry peers
@@ -33,6 +39,7 @@ Aid in budget planning and forecasting
 Build investor and stakeholder confidence
 
 🛠️ Technical Skills Applied
+
 Power Query for ETL operations
 
 Generated date tables, fiscal month & quarter columns
