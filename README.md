@@ -53,7 +53,8 @@ Optimized report layout and performance
 Built a report-building framework from scratch
 
 📂 Reports Included
-[Customer Sales Business Report](url)
+
+[Customer Sales Business Report]([url](https://github.com/Tarun-decodesdata/Sales_Finance_Analytics_Excel_Report/blob/main/Business_sales_Report..pdf))
 
 Market Performance vs Target Report
 
